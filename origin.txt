@@ -1,0 +1,44 @@
+Uri: http://appendly.blogspot.com/
+File Name: C:\Users\saiadarsh\Desktop\Portfolio\appendly.blogspot.com\index.html
+Content Type: text/html
+
+Uri: http://appendly.blogspot.com/favicon.ico
+File Name: C:\Users\saiadarsh\Desktop\Portfolio\appendly.blogspot.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: http://appendly.blogspot.com/feeds/posts/default
+File Name: C:\Users\saiadarsh\Desktop\Portfolio\appendly.blogspot.com\feeds\posts\default
+Content Type: application/atom+xml
+
+Uri: http://appendly.blogspot.com/feeds/posts/default?alt=rss
+File Name: C:\Users\saiadarsh\Desktop\Portfolio\appendly.blogspot.com\feeds\posts\default-1
+Content Type: application/rss+xml
+
+Uri: https://appendly.blogspot.com/
+File Name: C:\Users\saiadarsh\Desktop\Portfolio\appendly.blogspot.com\index-1.html
+Content Type: text/html
+
+Uri: http://appendly.blogspot.com/p/pricing.html
+File Name: C:\Users\saiadarsh\Desktop\Portfolio\appendly.blogspot.com\p\pricing.html
+Content Type: text/html
+
+Uri: http://appendly.blogspot.com/p/apply-now.html
+File Name: C:\Users\saiadarsh\Desktop\Portfolio\appendly.blogspot.com\p\apply-now.html
+Content Type: text/html
+
+Uri: http://appendly.blogspot.com/p/loading.html
+File Name: C:\Users\saiadarsh\Desktop\Portfolio\appendly.blogspot.com\p\loading.html
+Content Type: text/html
+
+Uri: https://appendly.blogspot.com/favicon.ico
+File Name: C:\Users\saiadarsh\Desktop\Portfolio\appendly.blogspot.com\favicon-1.ico
+Content Type: image/x-icon
+
+Uri: https://appendly.blogspot.com/feeds/posts/default
+File Name: C:\Users\saiadarsh\Desktop\Portfolio\appendly.blogspot.com\feeds\posts\default-2
+Content Type: application/atom+xml
+
+Uri: https://appendly.blogspot.com/feeds/posts/default?alt=rss
+File Name: C:\Users\saiadarsh\Desktop\Portfolio\appendly.blogspot.com\feeds\posts\default-3
+Content Type: application/rss+xml
+
